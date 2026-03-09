@@ -427,7 +427,7 @@ class SubscriberGetImageNode (Node):
         self.show(img)
 
 def main(args = None):
-    root = Window((1300, 800), 'Drone Control', args)#1300, 800
+    root = Window((920, 566), 'Drone Control', args)#1300, 800
 
 if __name__ == '__main__': 
     main()
